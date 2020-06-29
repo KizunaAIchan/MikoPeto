@@ -4,7 +4,6 @@
 * [操作方法](#操作方法)
 * [Q&A](#q-a)
 * [ダウンロード](#ダウンロード)
-****
 ------
 ## どんな機能があるですか
 * [Youtubeチャンネル配信通知](#youtubeチャンネル配信通知)
@@ -94,4 +93,7 @@
 ```
 ------
 ## ダウンロード
+* [Githubでダウンロード]
 ------
+
+[Githubでダウンロード]:https://github.com/KizunaAIchan/MikoPeto/releases "Githubでダウンロード"
