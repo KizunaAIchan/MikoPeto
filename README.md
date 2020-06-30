@@ -55,15 +55,19 @@ I have no time to develop English Version...Sorry
   風使いみこの物語、旅行時間を選んで、お金/道具が手に入る
   使い道：1.みこ神社の賽銭 2.みくじ占い 3.モデルを買う 4.みこにプレゼント
 ```
+![](/Pics/tra.png "miko")
 * LV2 みこみくじ占い 
 ```
   今日の運勢は？みこに教えてあげよ！
 ```
+  ![](/Pics/zp.png "miko")
 * LV3 カスタム対話
 ```
   好きなボイス/アニメーション/表情/対話を入力 俳句Modeもある
   PngをSaves/Skinに置いて 表情として選択できます　(みこちのスタンプとか？
 ```
+![](/Pics/haiku.png "miko")
+![](/Pics/custom.gif "miko")   
 * LV4 みこみこじゃんけん
 ```
    ギャンブルマスターさくらみこです
@@ -74,10 +78,12 @@ I have no time to develop English Version...Sorry
 ```
 * LV6 ****** 
 #### 実際のスクリーンショット
-![](/MikoMiko/Example/chatbubble.gif "miko")
-![](/MikoMiko/Example/detail.png "detail.png")
-![](/MikoMiko/Example/detail1.png "detail1.png")
-![](/MikoMiko/Example/chat1.png "chat1.png")
+
+
+![](/Pics/ks.gif "miko")
+![](/Pics/d.png "miko")
+![](/Pics/ks.png "miko")
+![](/Pics/detail.png "miko")
 ------
 ## 操作方法
 * 左クリック長押しで移動 (>1s)
