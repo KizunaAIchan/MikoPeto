@@ -112,7 +112,10 @@
 I have no time to develop English Version...Sorry
 Only the interface was translated
 ```
-
+* 中文版本 Bilibili通知?
+```
+咕咕咕
+```
 ------
 ## ダウンロード
 * [Githubでダウンロード]
