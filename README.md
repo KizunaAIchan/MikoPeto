@@ -117,6 +117,8 @@ Only the interface was translated
 ------
 ## ダウンロード
 * [Githubでダウンロード]
+* [GoogleDrive]
 ------
 
 [Githubでダウンロード]:https://github.com/KizunaAIchan/MikoPeto/releases "Githubでダウンロード"
+[GoogleDrive]:https://drive.google.com/file/d/1_0UB7CBbQo8aB4tslYZvMcFigVswdB5a/view?usp=sharing "GoogleDrive"
