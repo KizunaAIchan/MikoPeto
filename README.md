@@ -18,7 +18,6 @@
 * [設定/Setting](#設定)
 * [みこちの写真を見たい/Screenshots](#スクリーンショット)
 #### 配信通知
-* デフォルトのチャンネルには**みこち**しかいない/De
 * お気に入りのチャンネルを追加することができます
   
   You can add your favorite channels
@@ -29,12 +28,19 @@
   
   You can add your favorite audio
 * 通知を受け付けるかどうかを設定することもできます　(35s / check )
+
   You can turn on/off the notification
 * ~~ボイス数：70 アニメーション数：35 対話数：56~~
 #### 対話システム
 * **みこち**と話せる
+
+  You can talk with mikochi
 * 一部の対話には**選択肢**があります
+
+  Some dialogue has **choices**
 * 選択肢によって返信が異なります
+
+  Replies will vary depending on your choices
 #### チャットバブル
 * 設定でオフにすることができます
 
@@ -48,17 +54,19 @@
 #### 好感度
 * 時間の経過とともに好感度を増やし
 
-Increase love by idle
+  Increase love by idle
 * 対話の**選択肢**に応じて増やし
 
-Increase love according to **choices** of dialogue.
+  Increase love according to **choices** of dialogue.
 * みこちを撫でて好感度を増やし
 
- You can pat miko
+  You can pat miko
 * プレゼントを贈って好感度を増やし
 
-You could give her a gift
+  You could give her a gift
 * 好感度レベルに基づく新しい対話/アニメーション/ボイス/機能のロックを解除します(隠す機能もあるよ)
+
+  Unlock voices/animation/features when love lv up
 #### 汎用機能
 * クリップボードの歴史を保存する　最大5
 
@@ -69,11 +77,16 @@ You could give her a gift
 ```
   風使いみこの物語、旅行時間を選んで、お金/道具が手に入る
   使い道：1.みこ神社の賽銭 2.みくじ占い 3.モデルを買う 4.みこにプレゼント
+  
+  A word game， you can get money/item
+  1. Use money in fortune 2. Donations 3. buy model 4. A gift for the Miko
 ```
 ![](/Pics/tra.png "miko")
 * LV2 みこみくじ占い 
 ```
   今日の運勢は？みこに教えてあげよ！
+  
+  What's your fortune today? Miko will tell you!
 ```
   ![](/Pics/zp.png "miko")
 * LV3 カスタム対話/CustomDialogue
@@ -105,6 +118,7 @@ You could give her a gift
 
   Choose Language
 * ミュート，ブートアップ，WindowTop，音量，CPU/RAM使用率の表示を設定することができます
+
   Mute,Startup, WindowTop, Vol, Cpu/Ram Usuage
 #### スクリーンショット
 ![](/Pics/ks.gif "miko")
@@ -143,11 +157,11 @@ You could give her a gift
 ```
 * Is there an English version?
 ```
-Translated via Google Translate
+  Translated via Google Translate
 ```
 * Bilibili通知?
 ```
-没有
+  没有
 ```
 ------
 ## ダウンロード/Download
