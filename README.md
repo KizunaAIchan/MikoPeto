@@ -3,26 +3,33 @@
 ![](/Pics/t.png "miko")
 
 # 開発目録
-* [どんな機能があるですか](#機能)
-* [操作方法](#操作方法)
+* [どんな機能があるですか/What features does it have](#機能)
+* [操作方法/method of operation](#操作方法)
 * [Q&A](#qa)
-* [ダウンロード](#ダウンロード)
+* [ダウンロード/Download](#ダウンロードdownload)
 ------
 ## 機能
-* [みこ畜になりたい](#配信通知)
-* [みこちと話したい](#対話システム)
-* [みこちは独り言たい](#チャットバブル)
-* [みこちを攻略したい](#好感度)
-* [みこちは助けたい](#汎用機能)
-* [みこちは新機能がほしい](#ロック解除可能な機能)
-* [設定](#設定)
-* [みこちの写真を見たい](#スクリーンショット)
+* [みこ畜になりたい/Youtube Notification](#配信通知)
+* [みこちと話したい/Talk with Mikochi](#対話システム)
+* [みこちは独り言たい/Miko's talking to herself](#チャットバブル)
+* [みこちを攻略したい/LoveSystem](#好感度)
+* [みこちは助けたい/Normal futures](#汎用機能)
+* [みこちは新機能がほしい/Unlockable features](#ロック解除可能な機能)
+* [設定/Setting](#設定)
+* [みこちの写真を見たい/Screenshots](#スクリーンショット)
 #### 配信通知
-* デフォルトのチャンネルには**みこち**しかいない
+* デフォルトのチャンネルには**みこち**しかいない/De
 * お気に入りのチャンネルを追加することができます
-* 詳細設定では`通知音`、`終わり音`、 `アニメーション`を設定することができます 
+  
+  You can add your favorite channels
+* 詳細設定では`通知音`、`終わり音`、 `アニメーション`を設定することができます
+  
+  In the advanced settings, you can set the `Notification`, `Ending Sound` and `Animation`.
 * お気に入りのオーディオを追加することができます
+  
+  You can add your favorite audio
 * 通知を受け付けるかどうかを設定することもできます　(35s / check )
+  You can turn on/off the notification
 * ~~ボイス数：70 アニメーション数：35 対話数：56~~
 #### 対話システム
 * **みこち**と話せる
@@ -30,16 +37,32 @@
 * 選択肢によって返信が異なります
 #### チャットバブル
 * 設定でオフにすることができます
+
+  You can turn off it in setting 
 * みこちの独り言
+
+  Miko will talk to herself
 * 配信通知、 Youtubeへの**クイックジャンプ**(配信中のみ)
+
+  QuickJump to youtube
 #### 好感度
 * 時間の経過とともに好感度を増やし
+
+Increase love by idle
 * 対話の**選択肢**に応じて増やし
+
+Increase love according to **choices** of dialogue.
 * みこちを撫でて好感度を増やし
+
+ You can pat miko
 * プレゼントを贈って好感度を増やし
+
+You could give her a gift
 * 好感度レベルに基づく新しい対話/アニメーション/ボイス/機能のロックを解除します(隠す機能もあるよ)
 #### 汎用機能
 * クリップボードの歴史を保存する　最大5
+
+  Save the history of the clipboard (max 5
 * Color Picker
 #### ロック解除可能な機能
 * LV1 旅みこち
@@ -53,25 +76,36 @@
   今日の運勢は？みこに教えてあげよ！
 ```
   ![](/Pics/zp.png "miko")
-* LV3 カスタム対話
+* LV3 カスタム対話/CustomDialogue
 ```
   好きなボイス/アニメーション/表情/対話を入力 俳句Modeもある
   PngをSaves/Skinに置いて 表情として選択できます　(みこちのスタンプとか？
+  
+  Choose the audio/animation/emoji/line and play  There's also a haiku mode
+  
+  save face png to floder saves/skin  and you can use it in customDialouge mode
 ```
 ![](/Pics/haiku.png "miko")
 ![](/Pics/custom.gif "miko")   
 * LV4 みこみこじゃんけん
 ```
    ギャンブルマスターさくらみこです
+   
+   Gambling Master Sakura Mikko
 ```
-* LV5 モデルShop
+* LV5 モデルShop/Model Shop
 ```
   好きのモデルを買うことができます　サングラスとか
+  
+  You can buy model you want, like sunglasses
 ```
 * LV6 ****** 
 #### 設定
-* English 日本語　中文を設定することができます(メニューのみ)
+* English 日本語　中文を設定することができます
+
+  Choose Language
 * ミュート，ブートアップ，WindowTop，音量，CPU/RAM使用率の表示を設定することができます
+  Mute,Startup, WindowTop, Vol, Cpu/Ram Usuage
 #### スクリーンショット
 ![](/Pics/ks.gif "miko")
 ![](/Pics/d.png "miko")
@@ -79,16 +113,18 @@
 ![](/Pics/detail.png "miko")
 ------
 ## 操作方法
-* 左クリック長押しで移動 (>1s)
-* トレイ
+* 左クリック長押しで移動
+
+  Long left click and hold to move (>1s)
+* トレイ/tray
 ```
-  リセット位置(ダブルクリックでもOK)
-  ミュート
+  リセット位置(ダブルクリックでもOK) ResetPosition(doubleclick)
+  ミュート/Mute
   WindowTop
 ```
 ------
 ## Q&A
-* 開発環境は？
+* 開発環境は？Development environment?
 ```
   Unity2019.3.2f1
   MagicaVoxel
@@ -107,18 +143,17 @@
 ```
 * Is there an English version?
 ```
-I have no time to develop English Version...Sorry
-Only the interface was translated
+Translated via Google Translate
 ```
-* 中文版本 Bilibili通知?
+* Bilibili通知?
 ```
-咕咕咕
+没有
 ```
 ------
-## ダウンロード
-* [Githubでダウンロード]
+## ダウンロード/Download
+* [Github]
 * [GoogleDrive]
 ------
 
-[Githubでダウンロード]:https://github.com/KizunaAIchan/MikoPeto/releases "Githubでダウンロード"
+[Github]:https://github.com/KizunaAIchan/MikoPeto/releases "Github"
 [GoogleDrive]:https://drive.google.com/file/d/1_0UB7CBbQo8aB4tslYZvMcFigVswdB5a/view?usp=sharing "GoogleDrive"
