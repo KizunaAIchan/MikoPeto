@@ -166,8 +166,6 @@
 ------
 ## ダウンロード/Download
 * [Github]
-* [GoogleDrive]
 ------
 
 [Github]:https://github.com/KizunaAIchan/MikoPeto/releases "Github"
-[GoogleDrive]:https://drive.google.com/file/d/1_0UB7CBbQo8aB4tslYZvMcFigVswdB5a/view?usp=sharing "GoogleDrive"
